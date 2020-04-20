@@ -1,0 +1,15 @@
+{
+    "dimension": "location",
+    "level_of_gradation": 2,
+    "crs": {
+       "type": "EPSG",
+       "properties": {
+          "code": 4326,
+          "coordinate_order": [1, 0]
+       }
+     },
+     "geometry": {
+         "type": "Point",
+         "coordinates": [ 7.614700, 51.963575, 67 ]
+     }
+}
