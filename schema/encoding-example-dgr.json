@@ -1,0 +1,130 @@
+{
+    "dgrScore": {
+        "location": "2",
+        "orientation": "2",
+        "fov": "2",
+        "features": "2",
+        "temporalextent": "1"
+    },
+    "georeferences": [
+        {
+            "location": {
+                "dimension": "location",
+                "levelOfGradation": 2,
+                "crs": {
+                    "type": "EPSG",
+                    "properties": {
+                        "code": 4326,
+                        "coordinate_order": [
+                            1,
+                            0
+                        ]
+                    }
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        7.6147,
+                        51.963575,
+                        67
+                    ]
+                }
+            },
+            "orientation": {
+                "dimension": "Orientation",
+                "levelOfGradation": 2,
+                "yaw-angle": 167,
+                "pitch-angle": null,
+                "roll-angle": null
+            },
+            "fieldOfView": {
+                "dimension": "fieldOfView",
+                "levelOfGradation": 2,
+                "crs": {
+                    "type": "EPSG",
+                    "properties": {
+                        "code": 4326,
+                        "coordinate_order": [
+                            1,
+                            0
+                        ]
+                    }
+                },
+                "geometry": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                7.6147,
+                                51.963575
+                            ],
+                            [
+                                7.614558,
+                                51.963638
+                            ],
+                            [
+                                7.614547,
+                                51.963526
+                            ],
+                            [
+                                7.6147,
+                                51.963575
+                            ]
+                        ]
+                    ]
+                }
+            },
+            "features": {
+                "dimension": "features",
+                "levelOfGradation": 2,
+                "image-width": 4032,
+                "image-height": 2268,
+                "features": [
+                    {
+                        "type": "Feature",
+                        "properties": {
+                            "externalReferences": "https://www.openstreetmap.org/way/13742054",
+                            "name": "F\"urstbisch\"ofliches Schloss"
+                        },
+                        "geometry": {
+                            "type": "Polygon",
+                            "coordinates": [
+                                [
+                                    [
+                                        432,
+                                        1456
+                                    ],
+                                    [
+                                        1644,
+                                        1215
+                                    ],
+                                    [
+                                        2138,
+                                        754
+                                    ],
+                                    [
+                                        2120,
+                                        581
+                                    ],
+                                    [
+                                        43,
+                                        664
+                                    ],
+                                    [
+                                        432,
+                                        1456
+                                    ]
+                                ]
+                            ]
+                        }
+                    }
+                ]
+            },
+            "temporalExtent": {
+                "dimension": "temporalExtent",
+                "timestampGMT": "",
+                "timestampInVideo": null
+            }
+        }
+    ]
+}

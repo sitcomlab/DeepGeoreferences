@@ -1,0 +1,37 @@
+{
+    "dimension": "Field of View",
+    "levelOfGradation": 2,
+    "crs": {
+        "type": "EPSG",
+        "properties": {
+            "code": 4326,
+            "coordinate_order": [
+                1,
+                0
+            ]
+        }
+    },
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    7.6147,
+                    51.963575
+                ],
+                [
+                    7.614558,
+                    51.963638
+                ],
+                [
+                    7.614547,
+                    51.963526
+                ],
+                [
+                    7.6147,
+                    51.963575
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "dimension": "Features",
+    "levelOfGradation": 2,
+    "image-width": 4032,
+    "image-height": 2268,
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "externalReferences": "https://www.openstreetmap.org/way/13742054",
+                "name": "F\"urstbisch\"ofliches Schloss"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            432,
+                            1456
+                        ],
+                        [
+                            1644,
+                            1215
+                        ],
+                        [
+                            2138,
+                            754
+                        ],
+                        [
+                            2120,
+                            581
+                        ],
+                        [
+                            43,
+                            664
+                        ],
+                        [
+                            432,
+                            1456
+                        ]
+                    ]
+                ]
+            }
+        }
+    ]
+}
